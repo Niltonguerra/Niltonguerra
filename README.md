@@ -46,8 +46,12 @@
   <!-- Main Skills Section -->
   <h1>Studying</h1>
   <div style="display: inline-block"><br>
-    <img align="center" alt="javascript" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" alt="mongodb" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
+    <img align="center" alt="nestjs" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs
+nodejs-original-wordmark.svg">
+    <img align="center" alt="nextjs" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs
+nodejs-original-wordmark.svg">
+    
     <img align="center" alt="react" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">          
   </div>
 </div>
