@@ -50,7 +50,9 @@
     <img align="center" alt="Nestjs" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original-wordmark.svg">
     <img align="center" alt="Nextjs" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg">
     <img align="center" alt="Laravel" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original-wordmark.svg">         
-        <img align="center" alt="kotlin" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg">   
+    <img align="center" alt="kotlin" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg">   
+    <img align="center" alt="MySql" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">   
+    <img align="center" alt="spring" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">  
   </div>
 </div>
  
