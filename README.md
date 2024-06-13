@@ -40,11 +40,11 @@
   <!-- Main Skills Section -->
   <h1>Studying</h1>
 <div style="display: inline-block;">
-    <img align="center" alt="mongodb" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" style="margin: 0 10px;">
-    <img align="center" alt="Nestjs" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original-wordmark.svg" style="margin: 0 10px;">
-    <img align="center" alt="spring" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" style="margin: 0 10px;">
-    <img align="center" alt="Nextjs" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" style="margin: 0 10px;">
-    <img align="center" alt="kotlin" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" style="margin: 0 10px;">
+    <img align="center" alt="mongodb" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" style="margin: 0 100px;">
+    <img align="center" alt="Nestjs" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original-wordmark.svg" style="margin: 0 100px;">
+    <img align="center" alt="spring" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" style="margin: 0 100px;">
+    <img align="center" alt="Nextjs" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" style="margin: 0 100px;">
+    <img align="center" alt="kotlin" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" style="margin: 0 100px;">
 </div>
 
  
