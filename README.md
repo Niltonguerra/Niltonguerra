@@ -47,8 +47,7 @@
   <h1>Studying</h1>
   <div style="display: inline-block"><br>
     <img align="center" alt="javascript" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img align="center" alt="mysql" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-    <img align="center" alt= "c-hash" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+    <img align="center" alt="mysql" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/node-original-wordmark.svg">
     <img align="center" alt="react" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">          
   </div>
 </div>
