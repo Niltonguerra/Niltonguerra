@@ -9,7 +9,10 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Niltonguerra&theme=github_dark&hide_border=true&show_icons=true&hide_boder=true)](https://github.com/anuraghazra/github-readme-stats" />
   </a>
-
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niltonguerra&theme=github_dark&layout=compact&hide_border=true" />
+  </a>
 
   <!-- Profile Counter -->
   <p><b>Passaram para dizer "Olá!"</b></p>
