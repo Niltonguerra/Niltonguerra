@@ -26,7 +26,7 @@
   <a href="mailto:newtondionisioguerra@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- Linked-In link -->
   <a href="https://br.linkedin.com/in/nilton-dionisio-guerra-7249a81a6?trk=people-guest_people_search-card&original_referer=https%3A%2F%2Fwww.linkedin.com%2F">
     <img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white">
