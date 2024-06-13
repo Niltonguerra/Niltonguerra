@@ -15,7 +15,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niltonguerra&theme=github_dark&layout=compact&hide_border=true" />
   </a> -->
 
-  <!-- Profile Counter -->
+  <!-- Profile Counter -->&#xe624
   <p><b>Passaram para dizer "Olá!"</b></p>
   <p><img align="center" src="https://profile-counter.glitch.me/{Niltonguerra}/count.svg" /></p>
 
@@ -39,6 +39,9 @@
   
   <!-- Little Space between sections -->
   <br><br>
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+
   
   <!-- Main Skills Section -->
   <h1>Studying</h1>
