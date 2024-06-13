@@ -47,10 +47,10 @@
   <h1>Studying</h1>
   <div style="display: inline-block"><br>
     <img align="center" alt="mongodb" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-    <img align="center" alt="nestjs" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original-wordmark.svg">
-    <img align="center" alt="nextjs" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg">
-    
-    <img align="center" alt="react" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">          
+    <img align="center" alt="Nestjs" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original-wordmark.svg">
+    <img align="center" alt="Nextjs" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg">
+    <img align="center" alt="Laravel" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original-wordmark.svg">         
+        <img align="center" alt="kotlin" height=70 width=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg">   
   </div>
 </div>
  
