@@ -45,7 +45,7 @@
   
   <!-- Main Skills Section -->
   <h1>Studying</h1>
-  <div style="display: inline-block"><br>
+  <div style="display: inline-block" justify-content:space-between"><br>
     <img align="center" alt="mongodb" height=100  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
     <img align="center" alt="MySql" height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">   
     <img align="center" alt="Nestjs" height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original-wordmark.svg">
