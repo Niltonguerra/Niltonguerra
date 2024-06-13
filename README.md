@@ -23,7 +23,7 @@
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KevenAbraham&bg_color=none&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->  
 
   <!-- E-mail link --> 
-  <a href="mailto:cmp.1a.newtondionisioguerra@gmail.com">
+  <a href="mailto:newtondionisioguerra@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
@@ -32,10 +32,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
   
-  <!-- Instagram link 
-  <a href="https://www.instagram.com/k_venzera/">
-    <img src="https://img.shields.io/badge/Instagram-00BFFF?style=for-the-badge&logo=instagram&logoColor=white">
-  </a> -->
+
   
   <!-- Little Space between sections -->
   <br><br>
