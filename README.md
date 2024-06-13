@@ -44,9 +44,9 @@
   <h1>Studying</h1>
   <div style="display: inline-block" justify-content:space-between"><br>
     <img align="center" alt="mongodb" height=100  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-    <img align="center" alt="MySql" height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">   
+   <!-- <img align="center" alt="MySql" height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">    -->
     <img align="center" alt="Nestjs" height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original-wordmark.svg">
-    <img align="center" alt="Laravel" height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original-wordmark.svg">  
+    <!-- <img align="center" alt="Laravel" height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original-wordmark.svg">   -->
     <img align="center" alt="spring" height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"> 
     <img align="center" alt="Nextjs" height=100  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg">    
     <img align="center" alt="kotlin" height=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg">   
