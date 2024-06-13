@@ -22,15 +22,15 @@
   <!-- Activity Graph 
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KevenAbraham&bg_color=none&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->  
 
-  <!-- E-mail link 
+  <!-- E-mail link --> 
   <a href="mailto:cmp.1a.newtondionisioguerra@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-00BFFF?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>--> 
+  </a>
   
-  <!-- Linked-In link
+  <!-- Linked-In link -->
   <a href="https://https://www.linkedin.com/in/nilton-dionisio-guerra-7249a81a6/">
     <img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> -->
+  </a> 
   
   <!-- Instagram link 
   <a href="https://www.instagram.com/k_venzera/">
@@ -40,9 +40,6 @@
   <!-- Little Space between sections -->
   <br><br>
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-  
   <!-- Main Skills Section -->
   <h1>Studying</h1>
   <div style="display: inline-block" justify-content:space-between"><br>
