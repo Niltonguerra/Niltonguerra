@@ -15,7 +15,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niltonguerra&theme=github_dark&layout=compact&hide_border=true" />
   </a> -->
 
-  <!-- Profile Counter -->&#xe624
+  <!-- Profile Counter -->
   <p><b>Passaram para dizer "Olá!"</b></p>
   <p><img align="center" src="https://profile-counter.glitch.me/{Niltonguerra}/count.svg" /></p>
 
