@@ -5,10 +5,10 @@
   <!-- Introducing - Typing Text -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=700&lines=Hey!+My+name+is+Nilton+and+I'm+22.;Studying+to+become+a+Full%20Developer+Developer!!!)](https://git.io/typing-svg)
   <!-- Github Stats and Most used languages-->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats"  style="margin: 10px;">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Niltonguerra&theme=github_dark&hide_border=true&show_icons=true&hide_boder=true)](https://github.com/anuraghazra/github-readme-stats" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/anuraghazra/github-readme-stats"  style="margin: 10px;">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niltonguerra&theme=github_dark&layout=compact&hide_border=true" />
   </a>
 
@@ -19,20 +19,17 @@
   <!-- Activity Graph -->
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NiltonGuerra&bg_color=none&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)   
 
-<div>
+
   <!-- E-mail link --> 
-  <a href="mailto:newtondionisioguerra@gmail.com">
+  <a href="mailto:newtondionisioguerra@gmail.com"  style="margin: 10px;">
     <img src="https://img.shields.io/badge/Gmail-00BFFF?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <!-- Linked-In link -->
-  <a href="https://br.linkedin.com/in/nilton-dionisio-guerra-7249a81a6?trk=people-guest_people_search-card&original_referer=https%3A%2F%2Fwww.linkedin.com%2F">
+  <a href="https://br.linkedin.com/in/nilton-dionisio-guerra-7249a81a6?trk=people-guest_people_search-card&original_referer=https%3A%2F%2Fwww.linkedin.com%2F" style="margin: 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
-</div>
 
-
-  
   <!-- Little Space between sections -->
   <br><br>
 
