@@ -35,7 +35,7 @@
   <br><br>
 
   <!-- Main Skills Section -->
-  <h1>Studying</h1>
+  <h1>My favorite tools and technologies ⚙️</h1>
 <div style="display: flex; justify-content: space-between;">
     <img align="center" alt="mongodb" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -51,3 +51,7 @@
 
  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=00BFFF&section=footer" />
+
+
+
+<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
