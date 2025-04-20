@@ -49,8 +49,8 @@
 </div>
 -->
 
-
-<table>
+<h1>My favorite tools and technologies ⚙️</h1>
+<table height="auto">
   <tr>
     <td align="center" width="96">
        <img align="center" alt="mongodb" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
