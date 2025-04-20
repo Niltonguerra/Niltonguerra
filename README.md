@@ -15,7 +15,7 @@
   <!-- Profile Counter -->
   <p><b>Passaram para dizer "Olá!"</b></p>
   <p><img align="center" src="https://profile-counter.glitch.me/{Niltonguerra}/count.svg" /></p>
-  <br><br>  <br><br>
+  <br><br>
   <!-- Activity Graph -->
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NiltonGuerra&bg_color=none&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)   
 
