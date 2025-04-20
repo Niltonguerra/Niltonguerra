@@ -2,7 +2,7 @@
   <!-- Blue wave centered -->
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=00BFFF" />
 
-     <!-- Introducing - Typing Text -->
+  <!-- Introducing - Typing Text -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=700&lines=Hey!+My+name+is+Nilton+and+I'm+22.;Studying+to+become+a+Full%20Developer+Developer!!!)](https://git.io/typing-svg)
  Github Stats and Most used languages
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -17,7 +17,7 @@
   <p><img align="center" src="https://profile-counter.glitch.me/{Niltonguerra}/count.svg" /></p>
 
   <!-- Activity Graph -->
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KevenAbraham&bg_color=none&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)   
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NiltonGuerra&bg_color=none&color=00bfff&line=00bfff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)   
 
   <!-- E-mail link --> 
   <a href="mailto:newtondionisioguerra@gmail.com">
