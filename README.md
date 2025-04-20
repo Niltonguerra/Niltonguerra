@@ -4,7 +4,7 @@
 
   <!-- Introducing - Typing Text -->
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=700&lines=Hey!+My+name+is+Nilton+and+I'm+22.;Studying+to+become+a+Full%20Developer+Developer!!!)](https://git.io/typing-svg)
- Github Stats and Most used languages
+  <!-- Github Stats and Most used languages-->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Niltonguerra&theme=github_dark&hide_border=true&show_icons=true&hide_boder=true)](https://github.com/anuraghazra/github-readme-stats" />
   </a>
