@@ -70,6 +70,14 @@
         <img align="center" alt="Nestjs" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original-wordmark.svg">
       <br>Nest
     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="dart" />
+      <br>RabbitMQ
+    </td>
+    <td align="center" width="96">
+       <img align="center" alt="kotlin" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg">
+      <br>Kotlin
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -125,14 +133,6 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
       <br>Dart
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="dart" />
-      <br>RabbitMQ
-    </td>
-    <td align="center" width="96">
-       <img align="center" alt="kotlin" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg">
-      <br>Kotlin
     </td>
   </tr>
  <tr>
